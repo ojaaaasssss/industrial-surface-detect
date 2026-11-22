@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Large temporary datasets
+data/temp_kaggle/
+data/real/
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
